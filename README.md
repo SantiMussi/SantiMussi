@@ -1,4 +1,9 @@
-- Hello! I'm From Argentina
-- I was born in 2nd June of 2005
-- At the moment studying Informatic Engineering at the Argentine University of Enterpise
+{
 
+👂 My name is: Santiago,
+👩 Pronouns: He/Him,
+⚡ I'm: 19 years old,
+🌱 I’m currently learning: Java,
+❤️ I love: Dogs and Counter-Strike,
+💻 Favorite lang: Java,
+}
