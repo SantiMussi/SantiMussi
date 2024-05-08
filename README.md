@@ -2,9 +2,6 @@
 
 👂 My name is: Santiago,
 
-👩 Pronouns: He/Him,
-
-
 ⚡ I'm: 19 years old,
 
 🌱 I’m currently learning: Java,
