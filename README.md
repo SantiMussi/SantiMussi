@@ -20,6 +20,8 @@ class AboutMe {
 You can find me 🌎:
 - [Twitter](https://x.com/SanjuarkY)
 - [Instagram](https://www.instagram.com/santi.mussi/)
+- [LinkedIn](https://www.linkedin.com/in/santiago-mussi-82458b238/)
+- [My Cloth brand](https://www.instagram.com/othersite.co/)
 
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiMussi&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
