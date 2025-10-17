@@ -5,7 +5,7 @@ class AboutMe {
     String name = "Santiago Mussi";
     String country = "Argentina";
     String[] languages = {"English", "Spanish"};
-    int age = 19;
+    int age = 20;
     String career = "Computer engineering";
     String[] hobbies = {"GYM", "Videogames", "Hang out with friends"};
     String[] skills = {"Project Management", "Web Development", "Java", "Python", "SQL Server"};
