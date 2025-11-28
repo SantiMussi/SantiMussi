@@ -6,7 +6,7 @@
 
 <hr/>
 
-<img align='right' src='https://octodex.github.com/images/femalecodertocat.png' width='25%'>  
+<img align='right' src='https://octodex.github.com/images/surftocat.png' width='25%'>  
 
 {  
 
