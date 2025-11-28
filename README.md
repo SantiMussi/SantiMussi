@@ -21,13 +21,13 @@
 <h2 align="center">☕ Statistics</h2>
 
 <p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TU_USERNAME&theme=material-palenight&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=SantiMussi&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiMussi&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SantiMussi&theme=material-palenight&hide_border=true&background=FFFFFF00">
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=santimussi&theme=tokyonight"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=SantiMussi&theme=tokyonight"/>
 </p>
 
 <h2 align="center">🚀 Projects</h2>
@@ -36,7 +36,7 @@
 | <a href="https://github.com/TU_USERNAME/Szafrankus" target="_blank">**Szafrankus**</a> | <a href="https://github.com/TU_USERNAME/Farmacity-Project" target="_blank">**Farmacity Project**</a> | <a href="https://github.com/TU_USERNAME/Algoritmos-UBA" target="_blank">**Algorithms**</a> | <a href="https://github.com/TU_USERNAME/Wordpress-Stuff" target="_blank">**WordPress/WooCommerce**</a> |
 | :---: | :---: | :---: | :---: |
 <img align='center' src='https://avatars.githubusercontent.com/u/9919?s=200&v=4' width="100px"  height='100px'> | <img align='center' width="100px" src='https://avatars.githubusercontent.com/u/9919?s=200&v=4' height='100px'>  | <img align='center' src='https://avatars.githubusercontent.com/u/9919?s=200&v=4' width="100px" height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/9919?s=200&v=4' width="100px" height='100px'> |
-| <p>E-commerce for clothing with React + Redux + Spring.</p> <a href="https://github.com/TU_USERNAME/Szafrankus" target="_blank">`Repository`</a> | <p>IT governance & DevOps architecture.</p> <a href="https://github.com/TU_USERNAME/Farmacity-Project" target="_blank">`Repository`</a> | <p>Uni exercises: graphs, algorithms & more.</p> <a href="https://github.com/TU_USERNAME/Algoritmos-UBA" target="_blank">`Repository`</a> | <p>Custom WooCommerce themes & automation.</p> <a href="https://github.com/TU_USERNAME/Wordpress-Stuff" target="_blank">`Repository`</a> |
+| <p>E-commerce for clothing with React + Redux + Spring.</p> <a href="https://github.com/TU_USERNAME/Szafrankus" target="_blank">`Repository`</a> | <p>IT governance & DevOps architecture.</p> <a href="https://github.com/SantiMussi/Farmacity-Project" target="_blank">`Repository`</a> | <p>Uni exercises: graphs, algorithms & more.</p> <a href="https://github.com/SantiMussi/Algoritmos-UBA" target="_blank">`Repository`</a> | <p>Custom WooCommerce themes & automation.</p> <a href="https://github.com/SantiMussi/Wordpress-Stuff" target="_blank">`Repository`</a> |
 
 <br/>
 
