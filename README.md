@@ -65,6 +65,3 @@
 </p>
 
 <br/>
-
-<h2 align="center">📌 Pinned Repositories</h2>
-<p align="center">Some projects I’m proud of:</p>
