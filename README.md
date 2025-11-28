@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=TU_USERNAME&theme=tokyonight"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=santimussi&theme=tokyonight"/>
 </p>
 
 <h2 align="center">🚀 Projects</h2>
