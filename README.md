@@ -9,7 +9,6 @@
 {  
 
 * 👂 `My name is`: **Santiago**,
-* 👨‍💻 `Pronouns`: **He/Him**,
 * ⚡ `I'm`: **Ing. Informática student & dev**,
 * 🌱 `I’m currently learning`: **C++, Redux & networking**,
 * ❤️ `I love`: **Coffee, code & racing games**,
