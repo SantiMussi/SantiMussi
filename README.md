@@ -26,12 +26,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SantiMussi&theme=material-palenight&hide_border=true&background=FFFFFF00">
 </p>
 
-<h2 align="center">🚀 Projects</h2>
-<p align="center">Take a look at some of my projects.</p>
-  
-| <a href="https://github.com/SantiMussi/Front-apis" target="_blank">**Szafrankus**</a>
-<br/>
-
 <h2 align="center">🌱 My Skills</h2>
 
 <h4 align="center">💻 Programming languages (and HTML)</h4>
