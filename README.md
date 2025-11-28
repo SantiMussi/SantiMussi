@@ -6,8 +6,6 @@
 
 <hr/>
 
-<img align='right' src='https://octodex.github.com/images/surftocat.png' width='25%'>  
-
 {  
 
 * 👂 `My name is`: **Santiago**,
