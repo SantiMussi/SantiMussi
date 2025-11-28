@@ -26,18 +26,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SantiMussi&theme=material-palenight&hide_border=true&background=FFFFFF00">
 </p>
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=SantiMussi&theme=tokyonight"/>
-</p>
-
 <h2 align="center">🚀 Projects</h2>
 <p align="center">Take a look at some of my projects.</p>
   
-| <a href="https://github.com/SantiMussi/Front-apis" target="_blank">**Szafrankus**</a> | <a href="https://github.com/TU_USERNAME/Algoritmos-UBA" target="_blank">**Algorithms**</a> 
-| :---: | :---: | :---: | :---: |
-<img align='center' src='https://avatars.githubusercontent.com/u/9919?s=200&v=4' width="100px"  height='100px'> | <img align='center' width="100px" src='https://avatars.githubusercontent.com/u/9919?s=200&v=4' height='100px'>  | <img align='center' src='https://avatars.githubusercontent.com/u/9919?s=200&v=4' width="100px" height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/9919?s=200&v=4' width="100px" height='100px'> |
-| <p>E-commerce for clothing with React + Redux + Spring.</p> <a href="https://github.com/TU_USERNAME/Szafrankus" target="_blank">`Repository`</a> | <p>IT governance & DevOps architecture.</p> <a href="https://github.com/SantiMussi/Farmacity-Project" target="_blank">`Repository`</a> | <p>Uni exercises: graphs, algorithms & more.</p> <a href="https://github.com/SantiMussi/Algoritmos-UBA" target="_blank">`Repository`</a> | <p>Custom WooCommerce themes & automation.</p> <a href="https://github.com/SantiMussi/Wordpress-Stuff" target="_blank">`Repository`</a> |
-
+| <a href="https://github.com/SantiMussi/Front-apis" target="_blank">**Szafrankus**</a>
 <br/>
 
 <h2 align="center">🌱 My Skills</h2>
