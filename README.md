@@ -5,17 +5,10 @@
 </p>
 
 <hr/>
-
-{  
-
-* 👂 `My name is`: **Santiago**,
-* ⚡ `I'm`: **Ing. Informática student & dev**,
-* 🌱 `I’m currently learning`: **C++, Redux & networking**,
-* ❤️ `I love`: **Coffee, code & racing games**,
-* 💻 `Favorite lang`: **Java & JavaScript**  
-
-}
-
+<br>
+I'm Santiago Mussi, an Information Engineering student and junior developer.
+I’m focused on backend development, databases and software architecture.
+Currently learning and building projects with Java, Spring Boot and modern web technologies.
 <br/>
 
 <h2 align="center">☕ Statistics</h2>
