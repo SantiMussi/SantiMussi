@@ -23,10 +23,10 @@
 
 I'm a **Computer Engineering student** and **Freelance Developer** focused on high-performance backend architectures and digital transformation. I don't just write code; I design systems that solve real business problems.
 
-- 🔭 **Freelance Work:** Currently providing technical support and platform redesigns for clients like *Editorial DAL* and *Maite Stationery*.
+- 🔭 **Freelance Work:** Currently providing technical support and platform redesigns for clients like *Editorial DAL* and *TokyoCameraDesigner*.
 - 🛠️ **Systems Mindset:** Experienced in server migrations, hosting management, and API integrations (e.g., Correo Argentino, Firebase).
 - 🎓 **Education:** 4th Year Computer Engineering at UADE.
-- ⚡ **Interests:** Beyond the IDE, I'm into **F1 Telemetry**, playing the **Piano/Guitar**, and competitive **Padel**.
+- ⚡ **Interests:** Beyond the IDE, I'm into **F1**, playing the **Piano**, and **Padel**.
 
 ---
 
