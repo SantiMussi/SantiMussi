@@ -44,7 +44,7 @@ I'm a **Computer Engineering student** and **Freelance Developer** focused on hi
 | **Vantage** | High-end auction platform with real-time bidding & UI in Figma. | `React Native`, `Spring Boot`, `PostgreSQL` |
 | **Editorial DAL** | Full digital transformation: platform redesign & hosting migration. | `PHP`, `JavaScript`, `Custom APIs` |
 | **F1 Pit Optimizer** | Race strategy simulation tool using mathematical modeling. | `Python`, `Machine Learning`, `Streamlit` |
-| **Tokyo Shop** | Custom web-based camera customization & automation tool. | `React`, `Deployment Automation` |
+| **Tokyo Shop** | Custom web-based camera customization & automation tool. | `HTML/JS`, `Deployment Automation` |
 
 ---
 
