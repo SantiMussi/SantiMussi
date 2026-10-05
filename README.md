@@ -65,6 +65,7 @@ I'm a **Computer Engineering student** and **Freelance Developer** focused on hi
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /><br/>
     </td>
     <td align="center" valign="top">
       <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" /><br/>
