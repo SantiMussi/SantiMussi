@@ -23,7 +23,7 @@
 
 I'm a **Computer Engineering student** and **Freelance Developer** focused on high-performance backend architectures and digital transformation. I don't just write code; I design systems that solve real business problems.
 
-- 🔭 **Freelance Work:** Currently providing technical support and platform redesigns for clients like *Editorial DAL* and *TokyoCameraDesigner*.
+- 🔭 **Freelance Work:** Currently providing technical support and platform redesigns for clients like *Editorial DAL* and *Martineau*.
 - 🛠️ **Systems Mindset:** Experienced in server migrations, hosting management, and API integrations (e.g., Correo Argentino, Firebase).
 - 🎓 **Education:** 4th Year Computer Engineering at UADE.
 - ⚡ **Interests:** Beyond the IDE, I'm into **F1**, playing the **Piano**, and **Padel**.
@@ -35,6 +35,7 @@ I'm a **Computer Engineering student** and **Freelance Developer** focused on hi
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **Vantage** | High-end auction platform with real-time bidding & UI in Figma. | `React Native`, `Spring Boot`, `PostgreSQL` |
+| **Martineau** | Website & custom CMS for a stone and plaster sculpture workshop: catalog with SEO-friendly URLs, structured data, admin panel with built-in image editor. | `PHP`, `MySQL`, `JavaScript` |
 | **Editorial DAL** | Full digital transformation: platform redesign & hosting migration. | `PHP`, `JavaScript`, `Custom APIs` |
 | **F1 Pit Optimizer** | Race strategy simulation tool using mathematical modeling. | `Python`, `Machine Learning`, `Streamlit` |
 | **Tokyo Shop** | Custom web-based camera customization & automation tool. | `HTML/JS`, `Deployment Automation` |
