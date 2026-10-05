@@ -30,13 +30,6 @@ I'm a **Computer Engineering student** and **Freelance Developer** focused on hi
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SantiMussi&theme=tokyonight&no-bg=true&margin-w=15&column=4" alt="github trophies" /></a>
-</p>
-
----
-
 ### 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
@@ -58,27 +51,27 @@ I'm a **Computer Engineering student** and **Freelance Developer** focused on hi
     <td align="center" width="25%"><strong>Tools & Cloud</strong></td>
   </tr>
   <tr>
-    <td align="center" vertical-align="top">
+    <td align="center" valign="top">
       <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
     </td>
-    <td align="center" vertical-align="top">
+    <td align="center" valign="top">
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
     </td>
-    <td align="center" vertical-align="top">
+    <td align="center" valign="top">
       <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" /><br/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /><br/>
       <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
     </td>
-    <td align="center" vertical-align="top">
+    <td align="center" valign="top">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /><br/>
       <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" /><br/>
@@ -92,16 +85,24 @@ I'm a **Computer Engineering student** and **Freelance Developer** focused on hi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SantiMussi&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiMussi&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&exclude_repo=Pacman-AI" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SantiMussi&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiMussi&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&exclude_repo=Pacman-AI" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SantiMussi&theme=material-palenight&hide_border=true&background=FFFFFF00" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=SantiMussi&theme=material-palenight&hide_border=true&background=FFFFFF00" alt="Streak Stats" />
 </p>
 
-<br />
+---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SantiMussi/SantiMussi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SantiMussi/SantiMussi/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SantiMussi/SantiMussi/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/SantiMussi/SantiMussi/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://santimussi.com">santimussi.com</a> · <a href="https://linkedin.com/in/santiagomussi">LinkedIn</a> · <a href="mailto:santiagomussimonteso@gmail.com">Email</a>
 </p>
